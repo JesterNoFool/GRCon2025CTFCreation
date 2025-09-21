@@ -1,6 +1,6 @@
 # Creating the Challenge Signals
 
-The files here were used to create several signals used in the Gnu Radio 2025 conference "capture the flag" (CTF). These flowgraphs were used to create the following signals:
+The files here were used to create several signals used in the [Gnu Radio 2025 conference](https://events.gnuradio.org/event/26/) ["capture the flag" (CTF)](https://ctf-2025.gnuradio.org/). These flowgraphs were used to create the following signals:
 * Always The Same Color (ATSC)
 * Never The Same Color (NTSC)
 * Please Ask Later (PAL)
