@@ -8,6 +8,8 @@ The files here were used to create several signals used in the [Gnu Radio 2025 c
 * [Please Ask Later (PAL)](#please-ask-later-pal)
 * [Signal Identification Part 2 (Signal ID Flags 6 - 13)](#signal-identification-part-2-signal-id-flags-6---13)
 
+NOTE: The "Ladies and Gentlemen - Gary Schafer" signal has been left out due to errors when it was uploaded for the CTF event. While the uploaded version can *theoretically* be solved, it is unlikely given several issues. It will either be remade for next year's CTF, or dropped altogether. 
+
 Along with Gnu Radio Companion, other programs used were:
 * [ffmpeg](https://ffmpeg.org/)
 * [hacktv](https://github.com/fsphil/hacktv)
