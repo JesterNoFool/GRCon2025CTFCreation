@@ -1,3 +1,5 @@
+![Splash image for Gnu Radio 2025 conference. It shows an airplane climbing from left to right as it passes the Seattle "needle" tower. In the background is a mountain with the large words "GRCon25 Everett, Washington" in the lower, right.](https://github.com/JesterNoFool/GRCon2025CTFCreation/blob/main/images/grcon25_horizontal.png)
+
 # Creating the Challenge Signals
 
 The files here were used to create several signals used in the [Gnu Radio 2025 conference](https://events.gnuradio.org/event/26/) ["capture the flag" (CTF)](https://ctf-2025.gnuradio.org/). These flowgraphs were used to create the following signals:
