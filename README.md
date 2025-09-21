@@ -3,10 +3,10 @@
 # Creating the Challenge Signals
 
 The files here were used to create several signals used in the [Gnu Radio 2025 conference](https://events.gnuradio.org/event/26/) ["capture the flag" (CTF)](https://ctf-2025.gnuradio.org/). These flowgraphs were used to create the following signals:
-* Always The Same Color (ATSC)
-* Never The Same Color (NTSC)
-* Please Ask Later (PAL)
-* Signal Identification Part 2 (Signal ID Flags 6 - 13)
+* [Always The Same Color (ATSC)](#always-the-same-color-atsc)
+* [Never The Same Color (NTSC)](#never-the-same-color-ntsc)
+* [Please Ask Later (PAL)](#please-ask-later-pal)
+* [Signal Identification Part 2 (Signal ID Flags 6 - 13)](#signal-identification-part-2-signal-id-flags-6---13)
 
 Along with Gnu Radio Companion, other programs used were:
 * [ffmpeg](https://ffmpeg.org/)
@@ -48,7 +48,7 @@ Converted this still JPEG image into MP4 video using the following ffmpeg comman
 
 `ffmpeg -loop 1 -i NTSC-video-screen.jpg -t 30 -r 30 NTSC-video-carrier.mp4`
 
-Used [hacktv](https://github.com/fsphil/hacktv) to turn the MP4 video into an analog NTSC baseband video signal with the following command:
+Used hacktv to turn the MP4 video into an analog NTSC baseband video signal with the following command:
 
 `hacktv -o NTSC-baseband-video.rs16 -m ntsc -s 13500000 NTSC-video-carrier.mp4`
 
