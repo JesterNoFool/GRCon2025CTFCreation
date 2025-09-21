@@ -7,16 +7,17 @@ The files here were used to create several signals used in the Gnu Radio 2025 co
 * Signal Identification Part 2 (Signal ID Flags 6 - 13)
 
 Along with Gnu Radio Companion, other programs used were:
-* ffmpeg
-* Audacity
-* Inkscape
-* Gimp
+* [ffmpeg](https://ffmpeg.org/)
+* [hacktv](https://github.com/fsphil/hacktv)
+* [Audacity](https://www.audacityteam.org/)
+* [Inkscape](https://inkscape.org/)
+* [Gimp](https://www.gimp.org/)
 
 ## Always The Same Color (ATSC)
 
 Creating this signal combined Gnu Radio Companion, ffmpeg, Audacity, and Inkscape.
 
-To start, used Inkscape to create two images used for the two (2) video tracks. One flag each was written on the two images.
+To start, used Inkscape to create two images used for the two (2) video tracks. One flag each was written on the two images. Used Gimp to make minor alterations to the images from Inkscape.
 
 Next, used ffmpeg to convert the images into two .MP4 video files: 
 
