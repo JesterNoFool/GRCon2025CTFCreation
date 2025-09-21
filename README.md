@@ -17,6 +17,10 @@ Along with Gnu Radio Companion, other programs used were:
 * [Inkscape](https://inkscape.org/)
 * [Gimp](https://www.gimp.org/)
 
+## Solutions
+
+You can find the walkthrough to solve these signals [on livethisdream's Github](https://github.com/livethisdream/GRCon25-CTF/blob/main/CTF-Solutions.md).
+
 ## Always The Same Color (ATSC)
 
 Creating this signal combined Gnu Radio Companion, ffmpeg, Audacity, and Inkscape.
